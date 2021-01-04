@@ -1,2 +1,2 @@
 # Python
-Some Python notebook is coming soon 
+Some Python notebook I achieved 
