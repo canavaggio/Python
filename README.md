@@ -1,2 +1,3 @@
 # Python
-Some Python notebook I achieved 
+
+- MNIST : Notebook about computer vision, with mnist dataset.
